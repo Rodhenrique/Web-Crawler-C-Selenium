@@ -1,0 +1,14 @@
+C:\Users\henri\Desktop\Web Scrapping\bin\Debug\netcoreapp3.1\Web Scrapping.exe
+C:\Users\henri\Desktop\Web Scrapping\bin\Debug\netcoreapp3.1\Web Scrapping.deps.json
+C:\Users\henri\Desktop\Web Scrapping\bin\Debug\netcoreapp3.1\Web Scrapping.runtimeconfig.json
+C:\Users\henri\Desktop\Web Scrapping\bin\Debug\netcoreapp3.1\Web Scrapping.runtimeconfig.dev.json
+C:\Users\henri\Desktop\Web Scrapping\bin\Debug\netcoreapp3.1\Web Scrapping.dll
+C:\Users\henri\Desktop\Web Scrapping\bin\Debug\netcoreapp3.1\Web Scrapping.pdb
+C:\Users\henri\Desktop\Web Scrapping\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\henri\Desktop\Web Scrapping\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\henri\Desktop\Web Scrapping\obj\Debug\netcoreapp3.1\Web Scrapping.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\Web Scrapping\obj\Debug\netcoreapp3.1\Web Scrapping.AssemblyInfo.cs
+C:\Users\henri\Desktop\Web Scrapping\obj\Debug\netcoreapp3.1\Web Scrapping.csproj.CopyComplete
+C:\Users\henri\Desktop\Web Scrapping\obj\Debug\netcoreapp3.1\Web Scrapping.dll
+C:\Users\henri\Desktop\Web Scrapping\obj\Debug\netcoreapp3.1\Web Scrapping.pdb
+C:\Users\henri\Desktop\Web Scrapping\obj\Debug\netcoreapp3.1\Web Scrapping.csprojAssemblyReference.cache
